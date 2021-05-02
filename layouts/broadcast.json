@@ -1,0 +1,159 @@
+{
+  "tracker_broadcast": {
+    "type": "array",
+    "dropshadow": true,
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "v_alignment": "center",
+            "item_margin": "0,0",
+            "item_size": 52,
+            "rows": [
+              [
+                "Whip",
+                "Knife",
+                "Rapier",
+                "Axe",
+                "Katana"
+              ],
+              [
+                "Hand Scanner",
+                "Djed Pillar",
+                "Mjolnir",
+                "Beherit",
+                "Ancient Battery"
+              ],
+              [
+                "Shuriken",
+                "RollingShuriken",
+                "EarthSpear",
+                "Flare",
+                "Caltrops"
+              ],
+              [
+                "Chakram",
+                "Bomb",
+                "Pistol",
+                "Buckler",
+                "AnkhCount"
+              ],
+              [
+                "Lamp of Time",
+                "Pochette Key",
+                "Pyramid Crystal",
+                "SkullCount",
+                "Vessel"
+              ],
+              [
+                "Pepper",
+                "Egg of Creation",
+                "Giants Flute",
+                "Cog of Antiquity",
+                "Mulana Talisman"
+              ],
+              [
+                "Origin Sigil",
+                "Birth Sigil",
+                "Life Sigil",
+                "Death Sigil"
+              ],
+              [
+                "Gloves",
+                "Grapple Claw",
+                "Snow Shoes",
+                "Flame Torc",
+                "Gale Fibula"
+              ],
+              [
+                "Feather",
+                "Ice Cloak",
+                "Scalesphere",
+                "Nemean Fur",
+                "Power Band"
+              ],
+              [
+                "Anchor",
+                "Holy Grail",
+                "Fairy Pass",
+                "Freyas Pendant",
+                "Totem Pole"
+              ],
+              [
+                "Bronze Mirror",
+                "Maats Feather",
+                "Dinosaur Figure",
+                "Freys Ship",
+                "Ganesha Talisman"
+              ],
+              [
+                "Harp",
+                "Destiny Tablet",
+                "Light Scythe",
+                "Secret Treasure of Life",
+                "Claydoll Suit"
+              ],
+              [
+                "Mantra",
+                "Enga Musica",
+                "Snapshot",
+                "Death Village",
+                "Rose and Camelia"
+              ],
+              [
+                "Lonely House Moving",
+                "Mekuri Master",
+                "Future Development Company",
+                "La-Mulana",
+                "La-Mulana 2"
+              ],
+              [
+                "Heaven",
+                "Earth",
+                "Sun",
+                "Moon",
+                "Sea"
+              ],
+              [
+                "Fire",
+                "Wind",
+                "Mother",
+                "Child",
+                "Night"
+              ],
+              [
+                "Fafnir",
+                "Vritra",
+                "Kujata",
+                "Jormangund",
+                "Anu"
+              ],
+              [
+                "Aten-Ra",
+                "Echidna",
+                "Surtr",
+                "Hel"
+              ]
+            ]
+          },
+          {
+            "type": "container",
+            "margin": "0,5,0,0",
+            "content": {
+              "type": "recentpins",
+              "h_alignment": "stretch",
+              "v_alignment": "center",
+              "orientation": "vertical",
+              "compact": true,
+              "num_items": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
