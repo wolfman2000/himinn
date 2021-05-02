@@ -1,0 +1,586 @@
+{
+  "usables": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "0,0",
+    "item_size": 32,
+    "rows": [
+      [
+        "Whip",
+        "Knife",
+        "Rapier",
+        "Axe",
+        "Katana"
+      ],
+      [
+        "Shuriken",
+        "RollingShuriken",
+        "EarthSpear",
+        "Flare",
+        "Caltrops"
+      ],
+      [
+        "Chakram",
+        "Bomb",
+        "Pistol",
+        "Buckler",
+        "AnkhCount"
+      ],
+      [
+        "Hand Scanner",
+        "Djed Pillar",
+        "Mjolnir",
+        "Beherit",
+        "Ancient Battery"
+      ],
+      [
+        "Lamp of Time",
+        "Pochette Key",
+        "Pyramid Crystal",
+        "SkullCount",
+        "Vessel"
+      ],
+      [
+        "Pepper",
+        "Egg of Creation",
+        "Giants Flute",
+        "Cog of Antiquity",
+        "Mulana Talisman"
+      ],
+      [
+        "Origin Sigil",
+        "Birth Sigil",
+        "Life Sigil",
+        "Death Sigil",
+        "Rebirth Sigil"
+      ]
+    ]
+  },
+  "equipment": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "0,0",
+    "item_size": 32,
+    "rows": [
+      [
+        "Gloves",
+        "Grapple Claw",
+        "Ring",
+        "Snow Shoes",
+        "Flame Torc",
+        "Gale Fibula"
+      ],
+      [
+        "Vajra",
+        "Feather",
+        "Ice Cloak",
+        "Scalesphere",
+        "Scriptures",
+        "Spaulder"
+      ],
+      [
+        "Nemean Fur",
+        "Power Band",
+        "Gauntlet",
+        "Anchor",
+        "Bracelet",
+        "Book of the Dead"
+      ],
+      [
+        "Shell Horn",
+        "Holy Grail",
+        "Fairy Pass",
+        "Freyas Pendant",
+        "Totem Pole",
+        "Bronze Mirror"
+      ],
+      [
+        "Crucifix",
+        "Perfume",
+        "Maats Feather",
+        "Dinosaur Figure",
+        "Freys Ship",
+        "Codices"
+      ],
+      [
+        "Ganesha Talisman",
+        "Harp",
+        "Destiny Tablet",
+        "Light Scythe",
+        "Secret Treasure of Life",
+        "Mobile Super x3+"
+      ],
+      [
+        "Claydoll Suit",
+        "Dissonance",
+        "OrbCount",
+        "Maps",
+        "NormalMode"
+      ]
+    ]
+  },
+  "software": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "v_alignment": "center",
+    "item_margin": "0,0",
+    "item_size": 32,
+    "rows": [
+      [
+        "Xelputter",
+        "Yagoo Map Reader",
+        "Yagoo Map Street",
+        "TextTrax",
+        "Ruins Encylopedia",
+        "Mantra"
+      ],
+      [
+        "Guild",
+        "Kosugi Research Notes",
+        "Enga Musica",
+        "Beo Eg-lana",
+        "Alert",
+        "Snapshot"
+      ],
+      [
+        "Skull Reader",
+        "Race Scanner",
+        "Death Village",
+        "Rose and Camelia",
+        "Space Capstar II",
+        "Lonely House Moving"
+      ],
+      [
+        "Mekuri Master",
+        "Bounce Shot",
+        "Miracle Witch",
+        "Future Development Company",
+        "La-Mulana",
+        "La-Mulana 2"
+      ]
+    ]
+  },
+  "mantras": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "0,0",
+    "item_width": 52,
+    "item_height": 21,
+    "rows": [
+      [
+        "Heaven"
+      ],
+      [
+        "Earth"
+      ],
+      [
+        "Sun"
+      ],
+      [
+        "Moon"
+      ],
+      [
+        "Sea"
+      ],
+      [
+        "Fire"
+      ],
+      [
+        "Wind"
+      ],
+      [
+        "Mother"
+      ],
+      [
+        "Child"
+      ],
+      [
+        "Night"
+      ]			
+    ]
+  },
+  "guardians": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "v_alignment": "center",
+    "item_margin": "2,2",
+    "item_width": 62,
+    "item_height": 68,
+    "rows": [
+      [
+        "Fafnir",
+        "Vritra",
+        "Kujata"
+      ],
+      [
+        "Jormangund",
+        "Anu",
+        "Aten-Ra"
+      ],
+      [
+        "Echidna",
+        "Surtr",
+        "Hel"
+      ]
+    ]
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#877373",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Usables",
+              "margin": "0,0,3,0",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "usables"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Equipment",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "key": "equipment"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Software",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "key": "software"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Mantras",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "key": "mantras"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Guardians",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "key": "guardians"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Pinned Locations",
+              "dock": "right",
+              "content": {
+                "type": "recentpins",
+                "style": "wrap",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
+                "orientation": "horizontal",
+                "compact": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "World Map",
+              "content": {
+                "type": "map",
+                "maps": ["world"]
+              }
+            },
+            {
+              "title": "Surface",
+              "content": {
+                "type": "map",
+                "maps": ["surface"]
+              }
+            },
+            {
+              "title": "La-Mulana",
+              "content": {
+                "type": "map",
+                "maps": ["lamulana"]
+              }
+            },
+            {
+              "title": "Roots of Yggdrasil",
+              "content": {
+                "type": "map",
+                "maps": ["roots"]
+              }
+            },
+            {
+              "title": "Annwfn",
+              "content": {
+                "type": "map",
+                "maps": ["annwfn"]
+              }
+            },
+            {
+              "title": "Immortal Battlefield",
+              "content": {
+                "type": "map",
+                "maps": ["immortal"]
+              }
+            },
+            {
+              "title": "Icefire Treetop",
+              "content": {
+                "type": "map",
+                "maps": ["iceFire"]
+              }
+            },
+            {
+              "title": "Divine Fortress",
+              "content": {
+                "type": "map",
+                "maps": ["divine"]
+              }
+            },
+            {
+              "title": "Shrine of the Frost Giants",
+              "content": {
+                "type": "map",
+                "maps": ["shrine"]
+              }
+            },
+            {
+              "title": "Gate of the Dead",
+              "content": {
+                "type": "map",
+                "maps": ["dead"]
+              }
+            },
+            {
+              "title": "Takamagahara Shrine",
+              "content": {
+                "type": "map",
+                "maps": ["takamagahara"]
+              }
+            },
+            {
+              "title": "Heaven's Labyrinth",
+              "content": {
+                "type": "map",
+                "maps": ["heaven"]
+              }
+            },
+            {
+              "title": "Valhalla",
+              "content": {
+                "type": "map",
+                "maps": ["valhalla"]
+              }
+            },
+            {
+              "title": "Dark Lord's Mausoleum",
+              "content": {
+                "type": "map",
+                "maps": ["darkLord"]
+              }
+            },
+            {
+              "title": "Ancient Chaos",
+              "content": {
+                "type": "map",
+                "maps": ["ancientChaos"]
+              }
+            },
+            {
+              "title": "Hall of Malice",
+              "content": {
+                "type": "map",
+                "maps": ["malice"]
+              }
+            },
+            {
+              "title": "Eternal Prison - Gloom",
+              "content": {
+                "type": "map",
+                "maps": ["gloom"]
+              }
+            },
+            {
+              "title": "Eternal Prison - Doom",
+              "content": {
+                "type": "map",
+                "maps": ["doom"]
+              }
+            },
+            {
+              "title": "Nibiru",
+              "content": {
+                "type": "map",
+                "maps": ["nibiru"]
+              }
+            },
+            {
+              "title": "Spiral Hell",
+              "content": {
+                "type": "map",
+                "maps": ["spiralHell"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_capture_item": {
+    "type": "container",
+    "content": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,2",
+      "rows": [
+        [
+          "Whip",
+          "Chain Whip",
+          "Flail Whip",
+          "Knife",
+          "Rapier",
+          "Axe",
+          "Katana"
+        ],
+        [
+          "Shuriken",
+          "Rolling Shuriken",
+          "Earth Spear",
+          "Flare",
+          "Caltrops",
+          "Chakram",
+          "Bomb",
+          "Pistol"
+        ],
+        [
+          "Buckler",
+          "Silver Shield",
+          "Angel Shield",
+          "Hand Scanner",
+          "Djed Pillar",
+          "Mjolnir",
+          "Beherit",
+          "Ancient Battery"
+        ],
+        [
+          "Lamp of Time",
+          "Pochette Key",
+          "Pyramid Crystal",
+          "SkullCount",
+          "Vessel",
+          "Pepper",
+          "Egg of Creation",
+          "Giants Flute",
+          "Cog of Antiquity"
+        ],
+        [
+          "Mulana Talisman",
+          "Claydoll Suit",
+          "Dissonance",
+          "OrbCount",
+          "Maps",
+          "Mobile Super x3+",
+          "AnkhCount"
+        ],
+        [
+          "Origin Sigil",
+          "Birth Sigil",
+          "Life Sigil",
+          "Death Sigil",
+          "Rebirth Sigil"
+        ],
+        [
+          "Gloves",
+          "Grapple Claw",
+          "Ring",
+          "Snow Shoes",
+          "Flame Torc",
+          "Gale Fibula",
+          "Vajra",
+          "Feather",
+          "Ice Cloak"
+        ],
+        [
+          "Scalesphere",
+          "Scriptures",
+          "Spaulder",
+          "Nemean Fur",
+          "Power Band",
+          "Gauntlet",
+          "Anchor",
+          "Bracelet",
+          "Book of the Dead"
+        ],
+        [
+          "Shell Horn",
+          "Holy Grail",
+          "Fairy Pass",
+          "Freyas Pendant",
+          "Totem Pole",
+          "Bronze Mirror",
+          "Crucifix",
+          "Perfume",
+          "Maats Feather"
+        ],
+        [
+          "Dinosaur Figure",
+          "Freys Ship",
+          "Codices",
+          "Ganesha Talisman",
+          "Harp",
+          "Destiny Tablet",
+          "Light Scythe",
+          "Secret Treasure of Life"
+        ],
+        [
+          "Xelputter",
+          "Yagoo Map Reader",
+          "Yagoo Map Street",
+          "TextTrax",
+          "Ruins Encylopedia",
+          "Mantra",
+          "Guild",
+          "Kosugi Research Notes"
+        ],
+        [
+          "Enga Musica",
+          "Beo Eg-lana",
+          "Alert",
+          "Snapshot",
+          "Skull Reader",
+          "Race Scanner",
+          "Death Village",
+          "Rose and Camelia"
+        ],
+        [
+          "Space Capstar II",
+          "Lonely House Moving",
+          "Mekuri Master",
+          "Bounce Shot",
+          "Miracle Witch",
+          "Future Development Company",
+          "La-Mulana",
+          "La-Mulana 2"
+        ]
+      ]
+    }
+  }
+}

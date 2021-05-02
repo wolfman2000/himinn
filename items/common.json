@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Alert",
+    "type": "toggle",
+    "img": "images/items/alert.png",
+    "loop": "true",
+    "codes": "Alert"
+  },
+  {
+    "name": "Dummy",
+    "type": "toggle",
+    "img": "images/items/Dummy.png",
+    "loop": "true",
+    "codes": "Dummy"
+  },
+  {
+    "name": "Dissonance",
+    "type": "consumable",
+    "max_quantity": 6,
+    "img": "images/items/Dissonance.png",
+    "loop": "true",
+    "codes": "Dissonance"
+  },
+  {
+    "name": "Anchor",
+    "type": "toggle",
+    "img": "images/items/anchor.png",
+    "loop": "true",
+    "codes": "Anchor"
+  },
+  {
+    "name": "Axe",
+    "type": "toggle",
+    "img": "images/items/axe.png",
+    "loop": "true",
+    "codes": "Axe"
+  },
+  {
+    "name": "Ancient Battery",
+    "type": "toggle",
+    "img": "images/items/battery.png",
+    "loop": "true",
+    "codes": "Ancient Battery"
+  },
+  {
+    "name": "Beherit",
+    "type": "toggle",
+    "img": "images/items/beherit.png",
+    "loop": "true",
+    "codes": "Beherit"
+  },
+  {
+    "name": "Beo Eg-lana",
+    "type": "toggle",
+    "img": "images/items/beo.png",
+    "loop": "true",
+    "codes": "Beo Eg-lana"
+  },
+  {
+    "name": "Birth Sigil",
+    "type": "toggle",
+    "img": "images/items/birth.png",
+    "loop": "true",
+    "codes": "Birth Sigil"
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "img": "images/items/bomb.png",
+    "loop": "true",
+    "codes": "Bomb"
+  },
+  {
+    "name": "Book of the Dead",
+    "type": "toggle",
+    "img": "images/items/bookOfTheDead.png",
+    "loop": "true",
+    "codes": "Book of the Dead"
+  },
+  {
+    "name": "Bounce Shot",
+    "type": "toggle",
+    "img": "images/items/bounce.png",
+    "loop": "true",
+    "codes": "Bounce Shot"
+  },
+  {
+    "name": "Bracelet",
+    "type": "toggle",
+    "img": "images/items/bracelet.png",
+    "loop": "true",
+    "codes": "Bracelet"
+  },
+  {
+    "name": "Caltrops",
+    "type": "toggle",
+    "img": "images/items/caltrops.png",
+    "loop": "true",
+    "codes": "Caltrops"
+  },
+  {
+    "name": "Space Capstar II",
+    "type": "toggle",
+    "img": "images/items/capstar.png",
+    "loop": "true",
+    "codes": "Space Capstar II"
+  },
+  {
+    "name": "Chakram",
+    "type": "toggle",
+    "img": "images/items/chakram.png",
+    "loop": "true",
+    "codes": "Chakram"
+  },
+  {
+    "name": "Codices",
+    "type": "toggle",
+    "img": "images/items/codices.png",
+    "loop": "true",
+    "codes": "Codices"
+  },
+  {
+    "name": "Crucifix",
+    "type": "toggle",
+    "img": "images/items/cross.png",
+    "loop": "true",
+    "codes": "Crucifix"
+  },
+  {
+    "name": "Pyramid Crystal",
+    "type": "toggle",
+    "img": "images/items/crystalPyramid.png",
+    "loop": "true",
+    "codes": "Pyramid Crystal"
+  },
+  {
+    "name": "Crystal Skulls",
+    "type": "consumable",
+    "max_quantity": 12,
+    "img": "images/items/crystalSkull.png",
+    "codes": "SkullCount"
+  },
+  {
+    "name": "Death Sigil",
+    "type": "toggle",
+    "img": "images/items/death.png",
+    "loop": "true",
+    "codes": "Death Sigil"
+  },
+  {
+    "name": "Death Village",
+    "type": "toggle",
+    "img": "images/items/deathv.png",
+    "loop": "true",
+    "codes": "Death Village"
+  },
+  {
+    "name": "Destiny Tablet",
+    "type": "toggle",
+    "img": "images/items/destiny.png",
+    "loop": "true",
+    "codes": "Destiny Tablet"
+  },
+  {
+    "name": "Dinosaur Figure",
+    "type": "toggle",
+    "img": "images/items/dinosaur.png",
+    "loop": "true",
+    "codes": "Dinosaur Figure"
+  },
+  {
+    "name": "Djed Pillar",
+    "type": "toggle",
+    "img": "images/items/djedPillar.png",
+    "loop": "true",
+    "codes": "Djed Pillar"
+  },
+  {
+    "name": "Earth Spear",
+    "type": "toggle",
+    "img": "images/items/earthSpear.png",
+    "loop": "true",
+    "codes": "Earth Spear"
+  },
+  {
+    "name": "Egg of Creation",
+    "type": "toggle",
+    "img": "images/items/egg.png",
+    "loop": "true",
+    "codes": "Egg of Creation"
+  },
+  {
+    "name": "Enga Musica",
+    "type": "toggle",
+    "img": "images/items/enga.png",
+    "loop": "true",
+    "codes": "Enga Musica"
+  },
+  {
+    "name": "Fairy Pass",
+    "type": "toggle",
+    "img": "images/items/fairyPass.png",
+    "loop": "true",
+    "codes": "Fairy Pass"
+  },
+  {
+    "name": "Feather",
+    "type": "toggle",
+    "img": "images/items/feather.png",
+    "loop": "true",
+    "codes": "Feather"
+  },
+  {
+    "name": "Flame Torc",
+    "type": "toggle",
+    "img": "images/items/flameTorc.png",
+    "loop": "true",
+    "codes": "Flame Torc"
+  },
+  {
+    "name": "Flare",
+    "type": "toggle",
+    "img": "images/items/flareGun.png",
+    "loop": "true",
+    "codes": "Flare"
+  },
+  {
+    "name": "Giants Flute",
+    "type": "toggle",
+    "img": "images/items/flute.png",
+    "loop": "true",
+    "codes": "Giants Flute"
+  },
+  {
+    "name": "Freys Ship",
+    "type": "toggle",
+    "img": "images/items/frey.png",
+    "loop": "true",
+    "codes": "Freys Ship"
+  },
+  {
+    "name": "Freyas Pendant",
+    "type": "toggle",
+    "img": "images/items/freya.png",
+    "loop": "true",
+    "codes": "Freyas Pendant"
+  },
+  {
+    "name": "Gale Fibula",
+    "type": "toggle",
+    "img": "images/items/gale.png",
+    "loop": "true",
+    "codes": "Gale Fibula"
+  },
+  {
+    "name": "Ganesha Talisman",
+    "type": "toggle",
+    "img": "images/items/ganesha.png",
+    "loop": "true",
+    "codes": "Ganesha Talisman"
+  },
+  {
+    "name": "Gauntlet",
+    "type": "toggle",
+    "img": "images/items/gauntlet.png",
+    "loop": "true",
+    "codes": "Gauntlet"
+  },
+  {
+    "name": "Cog of Antiquity",
+    "type": "toggle",
+    "img": "images/items/gear.png",
+    "loop": "true",
+    "codes": "Cog of Antiquity"
+  },
+  {
+    "name": "Gloves",
+    "type": "toggle",
+    "img": "images/items/gloves.png",
+    "loop": "true",
+    "codes": "Gloves"
+  },
+  {
+    "name": "Grapple Claw",
+    "type": "toggle",
+    "img": "images/items/grappleClaw.png",
+    "loop": "true",
+    "codes": "Grapple Claw"
+  },
+  {
+    "name": "Guild",
+    "type": "toggle",
+    "img": "images/items/guild.png",
+    "loop": "true",
+    "codes": "Guild"
+  },
+  {
+    "name": "Pistol",
+    "type": "toggle",
+    "img": "images/items/gun.png",
+    "loop": "true",
+    "codes": "Pistol"
+  },
+  {
+    "name": "Harp",
+    "type": "toggle",
+    "img": "images/items/harp.png",
+    "loop": "true",
+    "codes": "Harp"
+  },
+  {
+    "name": "Holy Grail",
+    "type": "toggle",
+    "img": "images/items/holyGrail.png",
+    "loop": "true",
+    "codes": "Holy Grail"
+  },
+  {
+    "name": "Ice Cloak",
+    "type": "toggle",
+    "img": "images/items/iceCape.png",
+    "loop": "true",
+    "codes": "Ice Cloak"
+  },
+  {
+    "name": "Katana",
+    "type": "toggle",
+    "img": "images/items/katana.png",
+    "loop": "true",
+    "codes": "Katana"
+  },
+  {
+    "name": "Knife",
+    "type": "toggle",
+    "img": "images/items/knife.png",
+    "loop": "true",
+    "codes": "Knife"
+  },
+  {
+    "name": "Kosugi Research Notes",
+    "type": "consumable",
+    "img": "images/items/kosugi.png",
+    "max_quantity": 12,
+    "codes": "Kosugi Research Notes"
+  },
+  {
+    "name": "Lamp of Time",
+    "type": "toggle",
+    "img": "images/items/lamp.png",
+    "loop": "true",
+    "codes": "Lamp of Time"
+  },
+  {
+    "name": "La-Mulana",
+    "type": "toggle",
+    "img": "images/items/laMulana.png",
+    "loop": "true",
+    "codes": "La-Mulana"
+  },
+  {
+    "name": "La-Mulana 2",
+    "type": "toggle",
+    "img": "images/items/laMulana2.png",
+    "loop": "true",
+    "codes": "La-Mulana 2"
+  },
+  {
+    "name": "Life Sigil",
+    "type": "toggle",
+    "img": "images/items/life.png",
+    "loop": "true",
+    "codes": "Life Sigil"
+  },
+  {
+    "name": "Light Scythe",
+    "type": "toggle",
+    "img": "images/items/lightScythe.png",
+    "loop": "true",
+    "codes": "Light Scythe"
+  },
+  {
+    "name": "Maats Feather",
+    "type": "toggle",
+    "img": "images/items/maat.png",
+    "loop": "true",
+    "codes": "Maats Feather"
+  },
+  {
+    "name": "Mantra",
+    "type": "toggle",
+    "img": "images/items/mantra.png",
+    "loop": "true",
+    "codes": "Mantra"
+  },
+  {
+    "name": "Maps",
+    "type": "consumable",
+    "max_quantity": 16,
+    "img": "images/items/map.png",
+    "codes": "Maps"
+  },
+  {
+    "name": "Mekuri Master",
+    "type": "toggle",
+    "img": "images/items/mekuri.png",
+    "loop": "true",
+    "codes": "Mekuri Master"
+  },
+  {
+    "name": "Bronze Mirror",
+    "type": "toggle",
+    "img": "images/items/mirror.png",
+    "loop": "true",
+    "codes": "Bronze Mirror"
+  },
+  {
+    "name": "Mjolnir",
+    "type": "toggle",
+    "img": "images/items/mjolnir.png",
+    "loop": "true",
+    "codes": "Mjolnir"
+  },
+  {
+    "name": "Miracle Witch",
+    "type": "toggle",
+    "img": "images/items/miracle.png",
+    "loop": "true",
+    "codes": "Miracle Witch"
+  },
+  {
+    "name": "Future Development Company",
+    "type": "toggle",
+    "img": "images/items/mirai.png",
+    "loop": "true",
+    "codes": "Future Development Company"
+  },
+  {
+    "name": "Lonely House Moving",
+    "type": "toggle",
+    "img": "images/items/move.png",
+    "loop": "true",
+    "codes": "Lonely House Moving"
+  },
+  {
+    "name": "Mulana Talisman",
+    "type": "toggle",
+    "img": "images/items/mulana.png",
+    "loop": "true",
+    "codes": "Mulana Talisman"
+  },
+  {
+    "name": "Nemean Fur",
+    "type": "toggle",
+    "img": "images/items/nemeanFur.png",
+    "loop": "true",
+    "codes": "Nemean Fur"
+  },
+  {
+    "name": "Origin Sigil",
+    "type": "toggle",
+    "img": "images/items/origin.png",
+    "loop": "true",
+    "codes": "Origin Sigil"
+  },
+  {
+    "name": "Pepper",
+    "type": "toggle",
+    "img": "images/items/pepper.png",
+    "loop": "true",
+    "codes": "Pepper"
+  },
+  {
+    "name": "Perfume",
+    "type": "toggle",
+    "img": "images/items/perfume.png",
+    "loop": "true",
+    "codes": "Perfume"
+  },
+  {
+    "name": "Pochette Key",
+    "type": "toggle",
+    "img": "images/items/pochette.png",
+    "loop": "true",
+    "codes": "Pochette Key"
+  },
+  {
+    "name": "Power Band",
+    "type": "toggle",
+    "img": "images/items/powerBand.png",
+    "loop": "true",
+    "codes": "Power Band"
+  },
+  {
+    "name": "Race Scanner",
+    "type": "toggle",
+    "img": "images/items/raceScanner.png",
+    "loop": "true",
+    "codes": "Race Scanner"
+  },
+  {
+    "name": "Rose and Camelia",
+    "type": "toggle",
+    "img": "images/items/randc.png",
+    "loop": "true",
+    "codes": "Rose and Camelia"
+  },
+  {
+    "name": "Rapier",
+    "type": "toggle",
+    "img": "images/items/rapier.png",
+    "loop": "true",
+    "codes": "Rapier"
+  },
+  {
+    "name": "Rebirth Sigil",
+    "type": "toggle",
+    "img": "images/items/rebirth.png",
+    "loop": "true",
+    "codes": "Rebirth Sigil"
+  },
+  {
+    "name": "Ring",
+    "type": "toggle",
+    "img": "images/items/ring.png",
+    "loop": "true",
+    "codes": "Ring"
+  },
+  {
+    "name": "Rolling Shuriken",
+    "type": "toggle",
+    "img": "images/items/rollingShuriken.png",
+    "loop": "true",
+    "codes": "Rolling Shuriken"
+  },
+  {
+    "name": "Ruins Encylopedia",
+    "type": "toggle",
+    "img": "images/items/ruinsEncyclopedia.png",
+    "loop": "true",
+    "codes": "Ruins Encylopedia"
+  },
+  {
+    "name": "Sacred Orbs",
+    "type": "consumable",
+    "max_quantity": 10,
+    "img": "images/items/sacredOrb.png",
+    "codes": "OrbCount"
+  },
+  {
+    "name": "Scalesphere",
+    "type": "toggle",
+    "img": "images/items/scalesphere.png",
+    "loop": "true",
+    "codes": "Scalesphere"
+  },
+  {
+    "name": "Hand Scanner",
+    "type": "toggle",
+    "img": "images/items/scanner.png",
+    "loop": "true",
+    "codes": "Hand Scanner"
+  },
+  {
+    "name": "Scriptures",
+    "type": "toggle",
+    "img": "images/items/scriptures.png",
+    "loop": "true",
+    "codes": "Scriptures"
+  },
+  {
+    "name": "Shell Horn",
+    "type": "toggle",
+    "img": "images/items/shellHorn.png",
+    "loop": "true",
+    "codes": "Shell Horn"
+  },
+  {
+    "name": "Shield",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/items/shield1.png",
+        "codes": "Buckler"
+      },
+      {
+        "img": "images/items/shield2.png",
+        "codes": "Silver Shield"
+      },
+      {
+        "img": "images/items/shield3.png",
+        "codes": "Angel Shield"
+      }
+    ]
+  },
+  {
+    "name": "Mode Setting",
+    "loop": "true",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "name": "Normal Mode",
+        "img": "images/items/NormalMode.jpg",
+        "codes": "NormalMode"
+      },
+      {
+        "name": "Hard Mode",
+        "img": "images/items/HardMode.jpg",
+        "codes": "HardMode"
+      }
+    ]
+  },
+  {
+    "name": "Shuriken",
+    "type": "toggle",
+    "img": "images/items/shuriken.png",
+    "loop": "true",
+    "codes": "Shuriken"
+  },
+  {
+    "name": "Skull Reader",
+    "type": "toggle",
+    "img": "images/items/skull.png",
+    "loop": "true",
+    "codes": "Skull Reader"
+  },
+  {
+    "name": "Snow Shoes",
+    "type": "toggle",
+    "img": "images/items/snowShoes.png",
+    "loop": "true",
+    "codes": "Snow Shoes"
+  },
+  {
+    "name": "Spaulder",
+    "type": "toggle",
+    "img": "images/items/spaulder.png",
+    "loop": "true",
+    "codes": "Spaulder"
+  },
+  {
+    "name": "Ankh Jewel",
+    "type": "consumable",
+    "img": "images/items/ankh.png",
+    "max_quantity": 9,
+    "codes": "AnkhCount"
+  },
+  {
+    "name": "TextTrax",
+    "type": "toggle",
+    "img": "images/items/textTrax2.png",
+    "loop": "true",
+    "codes": "TextTrax"
+  },
+  {
+    "name": "Snapshot",
+    "type": "toggle",
+    "img": "images/items/torude.png",
+    "loop": "true",
+    "codes": "Snapshot"
+  },
+  {
+    "name": "Totem Pole",
+    "type": "toggle",
+    "img": "images/items/totem.png",
+    "loop": "true",
+    "codes": "Totem Pole"
+  },
+  {
+    "name": "Secret Treasure of Life",
+    "type": "toggle",
+    "img": "images/items/treasureOfLife.png",
+    "loop": "true",
+    "codes": "Secret Treasure of Life"
+  },
+  {
+    "name": "Vajra",
+    "type": "toggle",
+    "img": "images/items/vajra.png",
+    "loop": "true",
+    "codes": "Vajra"
+  },
+  {
+    "name": "Vessel",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/items/vessel.png",
+        "codes": "Vessel"
+      },
+      {
+        "img": "images/items/Liquour.png",
+        "codes": "Liquour"
+      }
+    ]
+  },
+  {
+    "name": "Whip",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/whip1.png",
+        "codes": "Whip"
+      },
+      {
+        "img": "images/items/whip2.png",
+        "codes": "Chain Whip"
+      },
+      {
+        "img": "images/items/whip3.png",
+        "codes": "Flail Whip"
+      }
+    ]
+  },
+  {
+    "name": "Mobile Super x3+",
+    "type": "toggle",
+    "img": "images/items/x3.png",
+    "loop": "true",
+    "codes": "Mobile Super x3+"
+  },
+  {
+    "name": "Xelputter",
+    "type": "toggle",
+    "img": "images/items/xelputter.png",
+    "loop": "true",
+    "codes": "Xelputter"
+  },
+  {
+    "name": "Yagoo Map Reader",
+    "type": "toggle",
+    "img": "images/items/yagooReader.png",
+    "loop": "true",
+    "codes": "Yagoo Map Reader"
+  },
+  {
+    "name": "Yagoo Map Street",
+    "type": "toggle",
+    "img": "images/items/yagooStreet.png",
+    "loop": "true",
+    "codes": "Yagoo Map Street"
+  },
+  {
+    "name": "Claydoll Suit",
+    "type": "toggle",
+    "img": "images/items/clayDoll.png",
+    "loop": "true",
+    "codes": "Claydoll Suit"
+  },
+  {
+    "name": "Heaven",
+    "type": "toggle",
+    "img": "images/items/mantra1.png",
+    "loop": "true",
+    "codes": "Heaven"
+  },
+  {
+    "name": "Earth",
+    "type": "toggle",
+    "img": "images/items/mantra2.png",
+    "loop": "true",
+    "codes": "Earth"
+  },
+  {
+    "name": "Sun",
+    "type": "toggle",
+    "img": "images/items/mantra3.png",
+    "loop": "true",
+    "codes": "Sun"
+  },
+  {
+    "name": "Moon",
+    "type": "toggle",
+    "img": "images/items/mantra4.png",
+    "loop": "true",
+    "codes": "Moon"
+  },
+  {
+    "name": "Sea",
+    "type": "toggle",
+    "img": "images/items/mantra5.png",
+    "loop": "true",
+    "codes": "Sea"
+  },
+  {
+    "name": "Fire",
+    "type": "toggle",
+    "img": "images/items/mantra6.png",
+    "loop": "true",
+    "codes": "Fire"
+  },
+  {
+    "name": "Wind",
+    "type": "toggle",
+    "img": "images/items/mantra7.png",
+    "loop": "true",
+    "codes": "Wind"
+  },
+  {
+    "name": "Mother",
+    "type": "toggle",
+    "img": "images/items/mantra8.png",
+    "loop": "true",
+    "codes": "Mother"
+  },
+  {
+    "name": "Child",
+    "type": "toggle",
+    "img": "images/items/mantra9.png",
+    "loop": "true",
+    "codes": "Child"
+  },
+  {
+    "name": "Night",
+    "type": "toggle",
+    "img": "images/items/mantra10.png",
+    "loop": "true",
+    "codes": "Night"
+  },
+  {
+    "name": "Fafnir",
+    "type": "toggle",
+    "img": "images/items/Fafnir.png",
+    "loop": "true",
+    "codes": "Fafnir"
+  },
+  {
+    "name": "Vritra",
+    "type": "toggle",
+    "img": "images/items/Vritra.png",
+    "loop": "true",
+    "codes": "Vritra"
+  },
+  {
+    "name": "Kujata",
+    "type": "toggle",
+    "img": "images/items/Kujata.png",
+    "loop": "true",
+    "codes": "Kujata"
+  },
+  {
+    "name": "Jormangund",
+    "type": "toggle",
+    "img": "images/items/Jormangund.png",
+    "loop": "true",
+    "codes": "Jormangund"
+  },
+  {
+    "name": "Anu",
+    "type": "toggle",
+    "img": "images/items/Anu.png",
+    "loop": "true",
+    "codes": "Anu"
+  },
+  {
+    "name": "Aten-Ra",
+    "type": "toggle",
+    "img": "images/items/Aten-Ra.png",
+    "loop": "true",
+    "codes": "Aten-Ra"
+  },
+  {
+    "name": "Echidna",
+    "type": "toggle",
+    "img": "images/items/Echidna.png",
+    "loop": "true",
+    "codes": "Echidna"
+  },
+  {
+    "name": "Surtr",
+    "type": "toggle",
+    "img": "images/items/Surtr.png",
+    "loop": "true",
+    "codes": "Surtr"
+  },
+  {
+    "name": "Hel",
+    "type": "toggle",
+    "img": "images/items/Hel.png",
+    "loop": "true",
+    "codes": "Hel"
+  }
+]

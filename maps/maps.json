@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ancientChaos",
+    "img": "images/maps/ancientChaos.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "annwfn",
+    "img": "images/maps/annwfn.jpg",
+    "location_size": 30,
+    "location_border_thickness": 1
+  },
+  {
+    "name": "darkLord",
+    "img": "images/maps/darkLord.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "dead",
+    "img": "images/maps/dead.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "divine",
+    "img": "images/maps/divine.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "doom",
+    "img": "images/maps/doom.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "gloom",
+    "img": "images/maps/gloom.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "lamulana",
+    "img": "images/maps/lamulana.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "heaven",
+    "img": "images/maps/heaven.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "iceFire",
+    "img": "images/maps/iceFire.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "immortal",
+    "img": "images/maps/immortal.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "malice",
+    "img": "images/maps/malice.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "nibiru",
+    "img": "images/maps/nibiru.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "roots",
+    "img": "images/maps/roots.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "shrine",
+    "img": "images/maps/shrine.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "spiralHell",
+    "img": "images/maps/spiralHell.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "surface",
+    "img": "images/maps/surface.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "takamagahara",
+    "img": "images/maps/takamagahara.jpg",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "valhalla",
+    "img": "images/maps/valhalla.png",
+    "location_size": 30,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "world",
+    "img": "images/maps/worldMap.png",
+    "location_size": 80,
+    "location_border_thickness": 8
+  }
+]

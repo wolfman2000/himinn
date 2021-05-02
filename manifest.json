@@ -1,0 +1,13 @@
+{
+  "name": "La-Mulana 2 Randomizer",
+  "game_name": "La-Mulana 2 Randomizer",
+  "game_variant": "yes",
+  "package_version": "0.0.1.0",
+  "package_uid": "lamulana2-wolfman",
+  "author": "Wolfman2000",
+  "variants": {
+    "map": {
+      "display_name": "Map Tracker"
+    }
+  }
+}
